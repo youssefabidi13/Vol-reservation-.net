@@ -39,7 +39,7 @@ The application uses an external API, such as Amadeus Developer API, to retrieve
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/airline-booking.git](https://github.com/youssefabidi13/Vol-reservation-.net.git)
+   git clone https://github.com/youssefabidi13/Vol-reservation-.net.git
    ```
 
 5. Open your web browser and navigate to `http://localhost:5000` to access the application.
